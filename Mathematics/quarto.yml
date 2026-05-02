@@ -9,6 +9,11 @@ book:
     - index.qmd
     - intro.qmd
     - Number-and-Algebra-Basocs.qmd
+    - Sequences-and-Series.qmd
+    - Functions-and-Their-Applications.qmd
+    - Coordinate-Geometry.qmd
+    - Trigonometry.qmd
+    - Elements-of-Statistics.qmd
     - summary.qmd
     - references.qmd
 
