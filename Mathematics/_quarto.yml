@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - Number-and-Algebra-Basocs.qmd
     - summary.qmd
     - references.qmd
 
