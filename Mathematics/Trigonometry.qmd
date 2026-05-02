@@ -1,0 +1,81 @@
+# БЛОК 5. Тригонометрія {#block5}
+
+## Рівень 1 — легкі завдання
+
+Точка $P(-0{,}8;\,0{,}6)$ лежить на одиничному колі. Обчисліть $\sin\alpha$, $\cos\alpha$, $\mathrm{tg}\,\alpha$.
+
+&nbsp;
+
+Розташуйте у порядку зростання: $\mathrm{tg}\,235^\circ$, $\sin 320^\circ$, $\cos 450^\circ$.
+
+&nbsp;
+
+Обчисліть: $\sin\!\left(\arccos\dfrac{12}{13}\right)+\cos\!\left(\arctan\dfrac{3}{4}\right)$.
+
+&nbsp;
+
+Обчисліть: $\cos\!\left(2\arcsin\dfrac{\sqrt{3}}{2}\right)+\arctan\!\left(-\mathrm{tg}\,\dfrac{\pi}{6}\right)$.
+
+&nbsp;
+
+## Рівень 2 — середні завдання
+
+Спростіть вираз:
+$$1+\frac{\cos\!\left(\tfrac{3\pi}{2}+\alpha\right)\cdot\cos\alpha}{\mathrm{tg}(-\alpha)}$$
+
+&nbsp;
+
+Спростіть:
+$$\frac{\sin\!\left(\tfrac{\pi}{2}+\alpha\right)\cdot\mathrm{tg}(\pi+\alpha)}{(\sin\alpha-\cos\alpha)^2+\sin 2\alpha}$$
+
+&nbsp;
+
+Обчисліть: $\dfrac{\sin\!\left(\dfrac{17\pi}{6}\right)\cos(\alpha-3\pi)\,\mathrm{tg}\,\alpha}{\sin\frac{\alpha}{2}\cos\frac{\alpha}{2}}$.
+
+&nbsp;
+
+Обчисліть: $\dfrac{\sin 22{,}5^\circ\cos 22{,}5^\circ}{\cos 660^\circ\,\mathrm{tg}\,510^\circ}$.
+
+&nbsp;
+
+Обчисліть $\sin\alpha$, якщо $\mathrm{tg}\,\alpha=3$ і $\alpha\in\!\left(\pi;\,\tfrac{3\pi}{2}\right)$.
+
+&nbsp;
+
+Обчисліть $\cos\alpha$, якщо $\cos 2\alpha=0{,}4$ і $\alpha\in\!\left(\tfrac{\pi}{2};\,\pi\right)$.
+
+&nbsp;
+
+## Рівень 3 — складні завдання
+
+Розв'яжіть рівняння: $\cos 2x-2\cos x+\cos^2 x=0$.
+
+&nbsp;
+
+Розв'яжіть рівняння: $\sin^2 x-\sin 2x=\cos^2 x$.
+
+&nbsp;
+
+Розв'яжіть рівняння $2\cos^2\alpha-5\sin\alpha=4$.
+
+&nbsp;
+
+Розв'яжіть нерівність: $2\cos 3x>1$.
+
+&nbsp;
+
+Розв'яжіть нерівність: $\sin\dfrac{x}{2}\ge -\dfrac{\sqrt{3}}{2}$.
+
+&nbsp;
+
+Розв'яжіть нерівність $\cos^2\alpha-\sin^2\alpha\le -1$.
+
+&nbsp;
+
+## Рівень 4 — бонус/найвищий рівень
+
+Відтворіть рівняння функції за графіком синусоїди з амплітудою 3, зміщеної на $-1$ по горизонталі, з кутовим коефіцієнтом $\frac{\pi}{4}$. Відповідь обґрунтуйте.
+
+&nbsp;
+
+Запишіть рівняння парної тригонометричної функції з областю значень $[-2;\,6]$ і періодом 1. Відповідь обґрунтуйте.
