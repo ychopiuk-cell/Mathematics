@@ -19,6 +19,8 @@ book:
 
 bibliography: references.bib
 
+lang: uk
+
 format:
   html:
     theme:
@@ -26,6 +28,9 @@ format:
       - brand
   pdf:
     documentclass: scrreprt
+    mainfont: "Charter"
+    sansfont: "Helvetica Neue"
+    monofont: "Menlo"
 
 
 

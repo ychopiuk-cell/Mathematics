@@ -2,6 +2,16 @@
 
 ## Рівень 1 — легкі завдання
 
+Розташуйте на числовій прямій значення виразів: $\cos25^\circ$, $\sin25^\circ$, $\mathrm{tg}\,25^\circ$, $\mathrm{ctg}\,25^\circ$, $2\sin225^\circ\cos225^\circ$, $\cos^2 225^\circ-\sin^2 225^\circ$, $\sin25^\circ-\cos25^\circ$, $\sqrt{3}$. Відповідь обґрунтуйте.
+
+&nbsp;
+
+Порівняйте значення виразів а)–в) з нулем:
+
+а) $\mathrm{tg}(-140^\circ)$; б) $\cos^2 160^\circ-\sin^2 160^\circ$; в) $\cos\dfrac{241\pi}{80}$.
+
+&nbsp;
+
 Точка $P(-0{,}8;\,0{,}6)$ лежить на одиничному колі. Обчисліть $\sin\alpha$, $\cos\alpha$, $\mathrm{tg}\,\alpha$.
 
 &nbsp;
@@ -19,6 +29,27 @@
 &nbsp;
 
 ## Рівень 2 — середні завдання
+
+Спростіть вираз: $\mathrm{ctg}^2\dfrac{x}{2}\sin^4\dfrac{x}{2}+\mathrm{tg}^2\dfrac{x}{2}\cos^4\dfrac{x}{2}$.
+
+&nbsp;
+
+Обчисліть: $\left(\sin^2\dfrac{\pi}{12}-\cos^2\dfrac{\pi}{12}\right)\mathrm{tg}\dfrac{10\pi}{3}+\sin\!\left(-\dfrac{7\pi}{4}\right)\cos\dfrac{\pi}{4}$.
+
+&nbsp;
+
+Обчисліть: а) $\arcsin\!\left(\sin\dfrac{6\pi}{7}\right)$; б) $\arccos\!\left(\sin\dfrac{7\pi}{6}\right)$; в) $\mathrm{ctg}\!\left(\arccos\!\left(-\dfrac{2}{3}\right)\right)$.
+
+&nbsp;
+
+Спростіть вираз:
+$$\frac{2\,\mathrm{ctg}\!\left(\tfrac{3\pi}{2}+\alpha\right)}{\mathrm{tg}^2(\pi-\alpha)+\sin^2\alpha+\cos^2(2\pi+\alpha)}$$
+
+&nbsp;
+
+Обчисліть значення $\mathrm{tg}\,2\alpha$, якщо $\cos\alpha=-0{,}6$ і $\alpha\in\!\left(\pi;\,\tfrac{3\pi}{2}\right)$.
+
+&nbsp;
 
 Спростіть вираз:
 $$1+\frac{\cos\!\left(\tfrac{3\pi}{2}+\alpha\right)\cdot\cos\alpha}{\mathrm{tg}(-\alpha)}$$
@@ -48,6 +79,22 @@ $$\frac{\sin\!\left(\tfrac{\pi}{2}+\alpha\right)\cdot\mathrm{tg}(\pi+\alpha)}{(\
 
 ## Рівень 3 — складні завдання
 
+Розв'яжіть рівняння $(2\cos^2 x-1)(2\arccos x-1)=0$.
+
+&nbsp;
+
+Знайдіть усі натуральні розв'язки нерівності $\mathrm{tg}\!\left(2x-\dfrac{\pi}{2}\right)<\sqrt{3}$, менші за $6$.
+
+&nbsp;
+
+Розв'яжіть рівняння $\dfrac{1-\sin^2 3\alpha}{\sin^2 3\alpha}=\dfrac{1}{3}$.
+
+&nbsp;
+
+Обчисліть суму всіх цілих значень $x\in[3\pi;\,6\pi]$, для яких $\sin x<-\dfrac{\sqrt{3}}{2}$.
+
+&nbsp;
+
 Розв'яжіть рівняння: $\cos 2x-2\cos x+\cos^2 x=0$.
 
 &nbsp;
@@ -73,6 +120,10 @@ $$\frac{\sin\!\left(\tfrac{\pi}{2}+\alpha\right)\cdot\mathrm{tg}(\pi+\alpha)}{(\
 &nbsp;
 
 ## Рівень 4 — бонус/найвищий рівень
+
+Складіть рівняння періодичної функції з головним періодом $2$, яка має вертикальну асимптоту $x=2$ та проходить через точку $(1;\,1)$.
+
+&nbsp;
 
 Відтворіть рівняння функції за графіком синусоїди з амплітудою 3, зміщеної на $-1$ по горизонталі, з кутовим коефіцієнтом $\frac{\pi}{4}$. Відповідь обґрунтуйте.
 
